@@ -1,1 +1,3 @@
-print("saba cercvadze")
+
+hello=input("name surname")
+print(hello)
